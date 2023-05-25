@@ -1,24 +1,6 @@
 # lab1
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+https://github.com/ahmedstahoun/Vue-labs/assets/122258859/c570dd7f-7833-40c6-b622-11767480ff8e
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
